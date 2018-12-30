@@ -5,6 +5,7 @@
     "version": "1.0",
 
     "description": "Renders all webpages in greyscale.",
+    "homepage_url": "https://github.com/silpian/grey-sun",
 
     "icons": {
         "48": "icons/border-48.png",

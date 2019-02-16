@@ -2,7 +2,7 @@
 
     "manifest_version": 2,
     "name": "Grey Sun",
-    "version": "1.0",
+    "version": "1.0.1",
 
     "description": "Renders all webpages in greyscale.",
     "homepage_url": "https://github.com/silpian/grey-sun",
